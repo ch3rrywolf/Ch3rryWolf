@@ -1,5 +1,5 @@
 ![logo](https://github.com/ch3rrywolf/ch3rrywolf/blob/main/super-mario_800.gif)
-<h1 align="center">Hola Hola Amigo 👋</h1>
+<h1 align="center">👋 Hola Hola Amigo 👋</h1>
 <h3 align="center">Backend Developer My expertise lies in Python and JavaScript , where I thrive in building scalable and efficient backend systems.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ch3rrywolf&label=Profile%20views&color=0e75b6&style=flat" alt="ch3rrywolf" /> </p>
