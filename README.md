@@ -1,3 +1,4 @@
+![logo](https://github.com/ch3rrywolf/ch3rrywolf/blob/main/super-mario_800.gif)
 <h1 align="center">Hola 👋, I'm Ch3rryWolf</h1>
 <h3 align="center">Backend Developer My expertise lies in Python and JavaScript (Node.js), where I thrive in building scalable and efficient backend systems.</h3>
 
