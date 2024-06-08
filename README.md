@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [KJB Project](https://github.com/ch3rrywolf/KJB)
 
-- 🌱 I’m currently learning **Framework Django**
+- 🌱 I’m currently learning **Framework Advanced Django**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ch3rrywolf](https://github.com/ch3rrywolf)
 
