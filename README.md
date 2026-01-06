@@ -1,16 +1,16 @@
 ![logo](https://github.com/ch3rrywolf/ch3rrywolf/blob/main/super-mario_800.gif)
-<h1 align="center">👋 Hola Hola Amigo 👋</h1>
-<h3 align="center">Backend Developer My expertise lies in Python and JavaScript , where I thrive in building scalable and efficient backend systems.</h3>
+<h1 align="center">👋 Selamat Datang 👋</h1>
+<h3 align="center">Developer My expertise lies in Code , where I thrive in building scalable and efficient systems.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ch3rrywolf&label=Profile%20views&color=0e75b6&style=flat" alt="ch3rrywolf" /> </p>
 
-- 🔭 I’m currently working on [KJB Project](https://github.com/ch3rrywolf/KJB)
+- 🔭 I’m currently working on TAZ Connect(https://github.com/ch3rrywolf/KJB)
 
-- 🌱 I’m currently learning **Advanced Framework Django**
+- 🌱 I’m currently learning **Strudel REPL**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ch3rrywolf](https://github.com/ch3rrywolf)
 
-- 💬 Ask me about **BackEnd (Python, JS) & DevOps**
+- 💬 Ask me about **BackEnd Dev (Code) & DevOps (Lines,Commands) & Network (Virtualization)**
 
 - 📫 How to reach me **ch3rrywolf111@gmail.com**
 
